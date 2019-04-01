@@ -8,43 +8,43 @@ public class Character
     private double fuelConOut;
     private String transmission;
 
-    void setMaxSpeed(int maxSpeed)
+    public void setMaxSpeed(int maxSpeed)
     {
         this.maxSpeed = maxSpeed;
     }
-    int getMaxSpeed()
+    public int getMaxSpeed()
     {
         return maxSpeed;
     }
 
-    void setDispersal(double dispersal)
+    public void setDispersal(double dispersal)
     {
         this.dispersal = dispersal;
     }
-    double getDispersal()
+    public double getDispersal()
     {
         return dispersal;
     }
 
-    void setFuelConIn(double fuelConIn)
+    public void setFuelConIn(double fuelConIn)
     {
         this.fuelConIn = fuelConIn;
     }
-    double getFuelConIn()
+    public double getFuelConIn()
     {
         return fuelConIn;
     }
 
-    void setFuelConOut(double fuelConOut)
+    public void setFuelConOut(double fuelConOut)
     {
         this.fuelConOut = fuelConOut;
     }
-    double getFuelConOut()
+    public double getFuelConOut()
     {
         return fuelConOut;
     }
 
-    void setTransmission(int transmission) {
+    public void setTransmission(int transmission) {
         switch(transmission)
         {
             case 1:
@@ -58,10 +58,11 @@ public class Character
                 break;
         }
     }
-    String getTransmission() {
+    public String getTransmission() {
         return transmission;
     }
 
+    @Override
     public String toString()
     {
         return "\t+---------------------------------------------------------+\n"
