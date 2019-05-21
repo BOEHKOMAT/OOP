@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_201" class="java.beans.XMLDecoder">
+ <int>10</int>
+ <object class="com.company.Car">
+  <void property="brand">
+   <string>Audi</string>
+  </void>
+  <void property="color">
+   <string>Silver</string>
+  </void>
+  <void property="maxSpeed">
+   <string>210</string>
+  </void>
+  <void property="price">
+   <string>32000</string>
+  </void>
+  <void property="yearOfRelease">
+   <string>2010</string>
+  </void>
+ </object>
+ <object class="com.company.Car">
+  <void property="brand">
+   <string>BMW</string>
+  </void>
+  <void property="color">
+   <string>Black</string>
+  </void>
+  <void property="maxSpeed">
+   <string>230</string>
+  </void>
+  <void property="price">
+   <string>43000</string>
+  </void>
+  <void property="yearOfRelease">
+   <string>2013</string>
+  </void>
+ </object>
+ <object class="com.company.Car">
+  <void property="brand">
+   <string>Honda</string>
+  </void>
+  <void property="color">
+   <string>Grey</string>
+  </void>
+  <void property="maxSpeed">
+   <string>205</string>
+  </void>
+  <void property="price">
+   <string>31000</string>
+  </void>
+  <void property="yearOfRelease">
+   <string>2009</string>
+  </void>
+ </object>
+ <object class="com.company.Car">
+  <void property="brand">
+   <string>Mercedes</string>
+  </void>
+  <void property="color">
+   <string>White</string>
+  </void>
+  <void property="maxSpeed">
+   <string>240</string>
+  </void>
+  <void property="price">
+   <string>65000</string>
+  </void>
+  <void property="yearOfRelease">
+   <string>2016</string>
+  </void>
+ </object>
+ <object class="com.company.Car">
+  <void property="brand">
+   <string>Mitsubishi</string>
+  </void>
+  <void property="color">
+   <string>Black</string>
+  </void>
+  <void property="maxSpeed">
+   <string>215</string>
+  </void>
+  <void property="price">
+   <string>12000</string>
+  </void>
+  <void property="yearOfRelease">
+   <string>2010</string>
+  </void>
+ </object>
+ <object class="com.company.Car">
+  <void property="brand">
+   <string>Renault</string>
+  </void>
+  <void property="color">
+   <string>Brown</string>
+  </void>
+  <void property="maxSpeed">
+   <string>203</string>
+  </void>
+  <void property="price">
+   <string>18000</string>
+  </void>
+  <void property="yearOfRelease">
+   <string>2013</string>
+  </void>
+ </object>
+ <object class="com.company.Car">
+  <void property="brand">
+   <string>Skoda</string>
+  </void>
+  <void property="color">
+   <string>Green</string>
+  </void>
+  <void property="maxSpeed">
+   <string>180</string>
+  </void>
+  <void property="price">
+   <string>14000</string>
+  </void>
+  <void property="yearOfRelease">
+   <string>2008</string>
+  </void>
+ </object>
+ <object class="com.company.Car">
+  <void property="brand">
+   <string>Vaz</string>
+  </void>
+  <void property="color">
+   <string>Chocolate</string>
+  </void>
+  <void property="maxSpeed">
+   <string>150</string>
+  </void>
+  <void property="price">
+   <string>1500</string>
+  </void>
+  <void property="yearOfRelease">
+   <string>1986</string>
+  </void>
+ </object>
+ <object class="com.company.Car">
+  <void property="brand">
+   <string>Volkswagen</string>
+  </void>
+  <void property="color">
+   <string>Yellow</string>
+  </void>
+  <void property="maxSpeed">
+   <string>200</string>
+  </void>
+  <void property="price">
+   <string>21000</string>
+  </void>
+  <void property="yearOfRelease">
+   <string>2011</string>
+  </void>
+ </object>
+ <object class="com.company.Car">
+  <void property="brand">
+   <string>Shevrolet</string>
+  </void>
+  <void property="color">
+   <string>Blue</string>
+  </void>
+  <void property="maxSpeed">
+   <string>270</string>
+  </void>
+  <void property="price">
+   <string>116000</string>
+  </void>
+  <void property="yearOfRelease">
+   <string>2018</string>
+  </void>
+ </object>
+</java>
